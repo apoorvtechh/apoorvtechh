@@ -12,8 +12,16 @@
 ---
 
 ## 🚀 About Me  
+I work across the full spectrum of Data Science, Machine Learning, and MLOps,
+ taking projects from raw data all the way to scalable production 
+systems. My recent work includes building an end-to-end delivery time 
+prediction (ETA) system involving data cleaning, feature engineering, model experimentation, hyperparameter tuning, and ensemble modeling.
 
-I am a Machine Learning & MLOps Engineer passionate about building **real-world, production-grade AI systems**.  
+I also designed a complete production backend using FastAPI, Docker, AWS EC2 Auto Scaling, ALB, ECR, and GitHub Actions CI/CD,
+ with successful large-scale stress testing to validate reliability and 
+auto-scaling. I enjoy creating solutions that are not only accurate but 
+also deployment-ready, automated, and robust in real-world conditions.
+ 
 I focus on:
 
 - 🧠 ML model development & optimization  

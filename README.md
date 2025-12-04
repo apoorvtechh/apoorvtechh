@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Apoorv Gupta</h1>
 <p align="center">
-  <b>Machine Learning Engineer • MLOps • Cloud • NLP • End-to-End Deployment</b>
+  <b>Machine Learning • MLOps • Cloud • NLP • End-to-End Deployment</b>
 </p>
 
 <p align="center">

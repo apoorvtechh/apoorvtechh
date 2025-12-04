@@ -55,6 +55,10 @@ NLP pipeline + SVM model + Flask API + Chrome Extension with automated workflows
 📘 **Project Synopsis:**  
 ➡️ https://github.com/apoorvtechh/synopsis  
 
+🧩 **Chrome Extension Plugin :**  
+➡️ https://github.com/apoorvtechh/reddit-yt-plugin
+
+
 
 ## 🛠️ Tech Stack
 

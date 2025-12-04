@@ -82,16 +82,6 @@ NLP pipeline + SVM model + Flask API + Chrome Extension with automated workflows
 ### **Tools**
 - VS Code, Jupyter Notebook, Postman, Chrome Extensions  
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=apoorvtechh&show_icons=true&theme=tokyonight" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtechh&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 

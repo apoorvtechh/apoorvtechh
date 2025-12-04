@@ -40,11 +40,11 @@ I focus on:
 ### 🛵 **Swiggy Delivery Time Prediction – Full End-to-End ML System**  
 Production-ready ETA prediction system with auto-scaling, Docker deployment, MLflow, and CI/CD.
 
-🔗 **Production Repo:**  
-➡️ https://github.com/apoorvtechh/delivery_time_estimator  
-
 📘 **Project Synopsis:**  
 ➡️ https://apoorvtechh-synopsis-eta-main-6f3ijc.streamlit.app/
+
+🔗 **Production Repo:**  
+➡️ https://github.com/apoorvtechh/delivery_time_estimator  
 
 🧪 **Experimentation Repo:**  
 ➡️ https://github.com/apoorvtechh/Swiggy_project_Experimentation  
@@ -54,14 +54,14 @@ Production-ready ETA prediction system with auto-scaling, Docker deployment, MLf
 ### 📘 **Reddit Comment Sentiment Analysis – NLP + Chrome Extension + API**  
 NLP pipeline + SVM model + Flask API + Chrome Extension with automated workflows.
 
+📘 **Project Synopsis:**  
+➡️ https://synopsis-yqdbpufcczaocxsai2zp3w.streamlit.app/
+
 🔗 **Main Repo (API + Deployment + Extension):**  
 ➡️ https://github.com/apoorvtechh/reddit-comment-sentiment-analysis  
 
 🧪 **Experimentation Repo:**  
 ➡️ https://github.com/apoorvtechh/Second_project  
-
-📘 **Project Synopsis:**  
-➡️ https://synopsis-yqdbpufcczaocxsai2zp3w.streamlit.app/
 
 🧩 **Chrome Extension Plugin :**  
 ➡️ https://github.com/apoorvtechh/reddit-yt-plugin

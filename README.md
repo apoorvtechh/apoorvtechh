@@ -71,7 +71,7 @@ NLP pipeline + SVM model + Flask API + Chrome Extension with automated workflows
 ## 🛠️ Tech Stack
 
 ### **Languages**
-- Python, SQL  
+- Python, SQL, Java 
 
 ### **Machine Learning**
 - LightGBM, CatBoost, XGBoost, SVM, Random Forest  

@@ -79,9 +79,6 @@ NLP pipeline + SVM model + Flask API + Chrome Extension with automated workflows
 - Text cleaning, tokenization, lemmatization  
 - TF-IDF, Bag-of-Words  
 
-### **Tools**
-- VS Code, Jupyter Notebook, Postman, Chrome Extensions  
-
 
 ## 🤝 Connect With Me
 

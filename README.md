@@ -44,7 +44,7 @@ Production-ready ETA prediction system with auto-scaling, Docker deployment, MLf
 ➡️ https://github.com/apoorvtechh/delivery_time_estimator  
 
 📘 **Project Synopsis:**  
-➡️ https://github.com/apoorvtechh/synopsis_eta  
+➡️ https://apoorvtechh-synopsis-eta-main-6f3ijc.streamlit.app/
 
 🧪 **Experimentation Repo:**  
 ➡️ https://github.com/apoorvtechh/Swiggy_project_Experimentation  
@@ -61,7 +61,7 @@ NLP pipeline + SVM model + Flask API + Chrome Extension with automated workflows
 ➡️ https://github.com/apoorvtechh/Second_project  
 
 📘 **Project Synopsis:**  
-➡️ https://github.com/apoorvtechh/synopsis  
+➡️ https://synopsis-yqdbpufcczaocxsai2zp3w.streamlit.app/
 
 🧩 **Chrome Extension Plugin :**  
 ➡️ https://github.com/apoorvtechh/reddit-yt-plugin

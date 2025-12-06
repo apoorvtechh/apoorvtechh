@@ -37,7 +37,7 @@ I focus on:
 
 ## 🌟 Featured Projects
 
-### 🛵 **Swiggy Delivery Time Prediction – Full End-to-End ML System**  
+### 🛵 **Food Delivery Time Prediction – Full End-to-End ML System**  
 Production-ready ETA prediction system with auto-scaling, Docker deployment, MLflow, and CI/CD.
 
 📘 **Project Synopsis:**  

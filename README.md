@@ -41,6 +41,14 @@ Built a scalable ETA prediction system with ML pipelines, CI/CD, Docker, AWS Aut
 
 ---
 
+### 📘 **Reddit Comment Sentiment Analysis — NLP + Chrome Extension + API**  
+End-to-end NLP system with API deployment, web scraping, and a custom Chrome extension UI.
+
+📘 **Project Synopsis:**  
+➡️ https://apoorvtechh-reddit-synopsis-app.streamlit.app/
+
+---
+
 ### 🚖 **NYC Taxi Demand Forecasting (33M Trips) — Data Science + ML Engineering + MLOps**  
 Real-time 15-minute demand forecasting using **MiniBatch KMeans, Prophet, and XGBoost** with full DVC pipeline + MLflow.
 
@@ -49,13 +57,6 @@ Real-time 15-minute demand forecasting using **MiniBatch KMeans, Prophet, and XG
 
 ---
 
-### 📘 **Reddit Comment Sentiment Analysis — NLP + Chrome Extension + API**  
-End-to-end NLP system with API deployment, web scraping, and a custom Chrome extension UI.
-
-📘 **Project Synopsis:**  
-➡️ https://apoorvtechh-reddit-synopsis-app.streamlit.app/
-
----
 
 ## 📬 Contact  
 📧 **Email:** apoorvtechh@gmail.com  
